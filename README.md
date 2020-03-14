@@ -51,6 +51,7 @@ optimizer.zero_grad() + optimizer.step() + scheduler.lr_scheduler + loss
 ## size of image
 
 floor(  (n-f)+2padding +1)
+![image](https://github.com/feiwenxiong/Computer-Vison-Tricks/blob/master/%E5%9B%BE%E7%89%871.png)
 
 
 
