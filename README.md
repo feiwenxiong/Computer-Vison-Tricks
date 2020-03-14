@@ -48,7 +48,9 @@ BGR -->[batch size,C,H,W]
 optimizer.zero_grad() + optimizer.step() + scheduler.lr_scheduler + loss
 
 
+## size of image
 
+floor(  (n-f)+2padding +1)
 
 
 
